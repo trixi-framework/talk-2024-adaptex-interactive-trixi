@@ -1,0 +1,8 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+HOHQMesh = "e4f4c7b8-17cb-445a-93c5-f69190ed6c8c"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Trixi = "a7f1ee26-1774-49b1-8366-f1abc58fbfcb"
