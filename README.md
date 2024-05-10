@@ -14,7 +14,7 @@ repository was created with Julia v1.10.3).
 ### Get reproducibility repository
 Clone this reproducibility repository by executing
 ```shell
-git clone https://github.com/trixi-framework/talk-2024-dlr-adaptex-interactive-trixi.git
+git clone https://github.com/trixi-framework/talk-2024-adaptex-interactive-trixi.git
 ```
 
 ### Install required packages
