@@ -1,4 +1,6 @@
 using HOHQMesh
+
+# plotting backend
 using GLMakie
 
 project = newProject("Mountain", "output_mesh")  # project name, output folder
@@ -9,7 +11,7 @@ x_ll = -12000.0           # domain width 40 km
 x_lr =  28000.0
 width = x_lr - x_ll
 
-# lower left and right values according to parametrization
+# lower left and right y-values according to parametrization
 y_ll = mountainHeight / ( 1 + (x_ll / mountainHalfWidth)^2 )
 y_lr = mountainHeight / ( 1 + (x_lr / mountainHalfWidth)^2 )
 

@@ -38,12 +38,12 @@ JULIA_NUM_THREADS=4 jupyter-lab demo.ipynb
 
 To generate the mesh:
 ```shell
-julia --project=. scripts/mountain_dome.jl
+julia --project=. scripts/mountain_mesh.jl
 ```
 
 To run the simulation:
 ```shell
-JULIA_NUM_THREADS=4 julia --project=. -e scripts/mountain_gravity_wave.jl
+JULIA_NUM_THREADS=4 julia --project=. scripts/mountain_gravity_wave.jl
 ```
 
 ## Authors
