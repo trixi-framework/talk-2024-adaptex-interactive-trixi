@@ -1,7 +1,7 @@
 using Trixi
 using OrdinaryDiffEq
 using Plots
-using LinearAlgebra
+
 
 ###############################################################################
 # Physical parameters
