@@ -46,6 +46,10 @@ To run the simulation:
 JULIA_NUM_THREADS=4 julia --project=. scripts/mountain_gravity_wave.jl
 ```
 
+### Result
+![Final result](result.png)
+
+
 ## Authors
 This repository was initiated by
 [Benedict Geihe](https://www.mi.uni-koeln.de/NumSim/dr-benedict-geihe/).
